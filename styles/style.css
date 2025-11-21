@@ -3,10 +3,6 @@
   padding: 0px;
   
 }
-@media(max-width:440px){
-  body{
-    width:440px;
-  }
 .mini-panel{
       width:440px;
       height: 22px;
