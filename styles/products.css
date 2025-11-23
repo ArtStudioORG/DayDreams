@@ -117,33 +117,35 @@
           }
         }
   }
-   .detail-panel{
+  .detail-panel{
     
-    height: 8%;
+    height: 13%;
     width:100%;
     background-color: #686675;
     justify-items: center;
     align-content:center;
     .brand-details{
-      height: 10%;
+      height: 15%;
       width:100%;
       justify-items: center;
       margin:10px;
       color:white;
-       
     }
     hr{
       width:90%;
       height: 1px;
       border:0px;
       background-color:pink;
+    margin-top:3%;  
     }
     .developer-details{
-      height: 80%;
+      height: 70%;
       width:100%;
       justify-items: center;
       align-content:center;
       justify-content:center;
+      justify-items: center;
+      margin: 0px;
       img{
         height: 10%;
         width:10%;
