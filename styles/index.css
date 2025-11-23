@@ -156,7 +156,7 @@ button{
           }
         }    
   }
-  .detail-panel{
+.detail-panel{
     
     height: 13%;
     width:100%;
@@ -196,9 +196,11 @@ button{
 .animation{
   .border-white:hover{
     border:2px solid white;
+    border-radius: 5px;
   }
   .border-black:hover{
     border:2px solid black;
+    border-radius: 5px;
   }
   input:active{
     text-decoration: none;

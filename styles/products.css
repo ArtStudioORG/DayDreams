@@ -97,7 +97,7 @@
     height:135%;
     width:95%;
     background-color: #F7F7F7;
-    margin-top:10%;
+    margin-top:5%;
     margin-bottom:5%;
     border-radius: 4px; 
         .current-product{
@@ -157,9 +157,11 @@
 .animation{
   .border-white:hover{
     border:2px solid white;
+    border-radius: 5px;
   }
   .border-black:hover{
     border:2px solid black;
+    border-radius: 5px;
   }
   input:active{
     text-decoration: none;
