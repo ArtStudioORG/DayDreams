@@ -227,7 +227,8 @@ button{
       height: 8%;
       width:100%;
       justify-items: center;
-      margin-top:10%;
+      margin-top: 10%;
+      margin-bottom: 4%;
       color:white;
     }
     hr{
@@ -235,21 +236,7 @@ button{
       height: 2px;
       border:0px;
       background-color:white;
-    margin-top:3%;  
-    }
-   .developer-details{
-      height: 17%;
-      width:100%;
-      justify-items: center;
-      align-content:center;
-      justify-content:center;
-      justify-items: center;
-      margin-top: 2%;
-      img{
-        height: 10%;
-        width:10%;
-        
-      }
+      
     }
     .developer-details{
       height: 17%;
@@ -258,7 +245,7 @@ button{
       align-content:center;
       justify-content:center;
       justify-items: center;
-      margin-top: 2%;
+      margin-top: 1%;
       img{
         height: 10%;
         width:10%;
