@@ -99,6 +99,8 @@
     background-image: linear-gradient(pink, white);
     justify-items: center;
     align-content:center;
+    justify-content: center;
+    align-items:center;
     p{
       font-size: 140%; 
       font-family:  cursive;
@@ -224,6 +226,8 @@ a{
     background-image:linear-gradient(white,#686675);
     justify-items: center;
     align-content:center;
+  align-items:center;
+justify-content: center;  
     .brand-details{
       height: 8%;
       width:100%;
